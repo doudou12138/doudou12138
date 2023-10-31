@@ -1,1 +1,1 @@
-![https://github.com/doudou12138/doudou12138/blob/output/github-contribution-grid-snake.gif](https://github.com/doudou12138/doudou12138/blob/output/github-contribution-grid-snake.gif)
+![https://github.com/doudou12138/doudou12138/blob/output/github-contribution-grid-snake.svg](https://github.com/doudou12138/doudou12138/blob/4fe9abe12e088ab08a917c1aad23548ccea287c9/github-contribution-grid-snake.svg)
