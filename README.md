@@ -2,9 +2,9 @@
 
   ## About Me
 
-  - 🔭 I’m currently interning on Xiaomi Server R&D 
+  - 🔭 I’m currently interning on MeiTuan Server R&D 
   - 🌱 I’m currently learning in Nanjing University!
-  - 📚 Currently exploring antdesign.
+  - 📚 Currently exploring advertise Tech.
   ## Language
   ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=black)
   ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -16,6 +16,9 @@
 <details>
   <summary><b>Click to know more about me<b></summary>
 
+  ## My Experiences
+  - interning on XiaoMi Server R&D (2023-11~2024-03)
+
   ## My Interests
   - 💻 Exploring the latest in technology and coding.
   - 🎨 Engaging in creative projects and design.
@@ -26,7 +29,8 @@
 
   ## Let's Connect!
   Feel free to reach out, I'm always open to interesting conversations and collaboration. 😊
-  - 💬 Email: 211250173@smail.nju.edu.cn
+  
+  - 💬 Email: 211250173@smail.nju.edu.cn, 2380601579@qq.com
 
   🥺 "当你的贡献被吃掉了，但是你还在这里努力奋斗。"
   ![https://github.com/doudou12138/doudou12138/blob/output/github-contribution-grid-snake.svg](https://github.com/doudou12138/doudou12138/blob/output/github-contribution-grid-snake.svg)
